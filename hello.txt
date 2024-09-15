@@ -2,5 +2,9 @@ hello news
 
 <<<<<<< HEAD
 
+<<<<<<< Updated upstream
 dhiraj salgare
   
+=======
+dhiraj salgare my name is dhiraj
+>>>>>>> Stashed changes
