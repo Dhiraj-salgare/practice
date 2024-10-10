@@ -3,7 +3,7 @@ hello news
 <<<<<<< HEAD
 
 <<<<<<< Updated upstream
-dhiraj salgare
+dhiraj salgare   ganesh patil
   
 =======
 dhiraj salgare my name is dhiraj
